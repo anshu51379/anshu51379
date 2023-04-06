@@ -12,5 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=anshu51379&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshu51379&theme=dark&hide_border=false)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=anshu51379&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
+### Activity Graph:
+[![Abhishek's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=anshu51379&theme=dracula)](https://github.com/anshu51379/github-readme-activity-graph)
